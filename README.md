@@ -26,12 +26,24 @@ I am continuously improving my skills through practice and hands-on development.
 ### 🔗 Connect with me
 - LinkedIn: https://linkedin.com/in/yourprofile
 - GitHub: https://github.com/masudurrahman07
-
 ### 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=masudurrahman07&show_icons=true&theme=default)
+<!-- Contribution Graph -->
+![GitHub Contributions](https://ghchart.rshah.org/masudurrahman07)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=masudurrahman07&layout=compact)
+<!-- Followers & Repos Badges -->
+![GitHub Followers](https://img.shields.io/github/followers/masudurrahman07?style=social)
+![GitHub Repos](https://img.shields.io/github/repos/masudurrahman07?style=social)
+
+<!-- Top Languages -->
+**Top Languages:**
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JS-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+
+<!-- Streak Stats -->
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=masudurrahman07&theme=default)
 
 
 
