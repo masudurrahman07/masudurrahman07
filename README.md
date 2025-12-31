@@ -28,7 +28,7 @@ I am continuously improving my skills through practice and hands-on development.
 
 <!-- Followers & Repos Badges -->
 ![GitHub Followers](https://img.shields.io/github/followers/masudurrahman07?style=social)
-![GitHub Public Repos](https://img.shields.io/github/public-repos/masudurrahman07?style=flat-square)
+
 
 <!-- Top Languages -->
 **Top Languages:**
