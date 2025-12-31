@@ -1,4 +1,5 @@
-![Banner](https://www.canva.com/design/DAG9DBgeTxk/5J3NfFF42KYBA7YsQi4UQg/edit)
+![Banner](Banner.png)
+
 
 ## Hi 👋 I'm Masudur Rahman  
 ### Frontend Web Developer
